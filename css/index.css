@@ -644,7 +644,7 @@ body{
     grid-area: content;
 }
 /* makes buttons one line for mobile + tablet*/
-@media (max-width: 53rem){
+@media (max-width: 48rem){
     .number-indicators button{
         grid-row: 1;
     }
@@ -687,7 +687,7 @@ body{
 
 }
 
-@media (min-width: 53rem) {
+@media (min-width: 48rem) {
     .grid-container {
         text-align: left;
         column-gap: var(--container-gap, 2rem);
