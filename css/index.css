@@ -481,6 +481,7 @@ body{
 
 .technology{
     background-image: url(../assets/technology/background-technology-mobile.jpg);
+    max-width: 1440px;
 }
 
 @media (min-width: 35rem) {
